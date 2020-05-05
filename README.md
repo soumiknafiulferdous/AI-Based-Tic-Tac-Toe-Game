@@ -1,1 +1,1 @@
-# AI-Based-Tic-Tac-Toe-Game
+# AI Based Tic Tac Toe Game
